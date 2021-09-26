@@ -8,7 +8,7 @@ This project uses Tableau to create visualizations and provide an analysis of [N
 This chart shows the length of every bike trip that lasted up to 2 hours for riders in August 2019.The screenshot shows that the most common trip length in August 2019 was a 5 minute trip, with 146,752 trips lasting 5 minutes.
 ![image](https://user-images.githubusercontent.com/86338416/134822950-c23fc12b-7ae0-4b44-b3c3-8387aabfbc2a.png)
 
-* [Checkout Times by Gender](https://public.tableau.com/authoring/Module14Challenge_16326839417930/CheckoutTimesforUsers2#1)  
+* [Checkout Times by Gender](https://public.tableau.com/authoring/Module14Challenge_16326839417930/CheckoutTimesforUsers2#1)   
 This chart show the length of every bike trip that lasted up to 2 hours, filtered by gender.  
 ![image](https://user-images.githubusercontent.com/86338416/134823292-af572902-7d2e-4e66-a7fe-dc157dafc445.png)  
 
@@ -23,7 +23,7 @@ This heatmap filters the number of bike trips by gender, shown by the hour and s
 ![image](https://user-images.githubusercontent.com/86338416/134823326-ca6ceb58-56d6-4ed4-957c-f582fe22292c.png)  
 
 
-* [User Trips by Gender by Weekday](https://public.tableau.com/authoring/Module14Challenge_16326839417930/UserTripsbyGenderbyWeekday#1)
+* [User Trips by Gender by Weekday](https://public.tableau.com/authoring/Module14Challenge_16326839417930/UserTripsbyGenderbyWeekday#1)  
 This heatmap differentiates between subscribers and customers (non-subscribers), gender, and usage by weekday.  
 ![image](https://user-images.githubusercontent.com/86338416/134823343-3330bcd0-a746-4c37-ac2e-24d10501dc72.png)  
 
