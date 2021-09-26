@@ -49,11 +49,11 @@ These visualizations show that there are many more male riders than female rider
 Two additional suggested visualizations for future analysis would be to create a similar map as the "Top Starting Locations" visualization, but to add a color filter to differentiate between starting locations on weekdays versus weekends. The same could then also be done for "Top Ending Locations." If you toggle the day filter, you can see that the most rides occur on Thursdays and crowd out the relative represenation of the other days' data in the visual (see screenshots below). The next question may be to ask: why is Thursday bikeriding so popular?
 
 Example of the "Top Starting Locations" visual filtered by day, with and without Thursday.  
-* Including Thursday:  
-![image](https://user-images.githubusercontent.com/86338416/134824081-bd5e1ac6-52a7-4192-9e4d-6479288661dd.png)  
-
 * Excluding Thursday:   
 ![image](https://user-images.githubusercontent.com/86338416/134824050-dbaaf789-690a-4fea-84dd-c12396821438.png)  
+
+* Including Thursday:  
+![image](https://user-images.githubusercontent.com/86338416/134824081-bd5e1ac6-52a7-4192-9e4d-6479288661dd.png)  
 
 * Top Starting Locations -- Weekday Edition:  
 ![image](https://user-images.githubusercontent.com/86338416/134824152-d09cfd29-f266-48e1-bfa0-cf7de1fc6ffa.png)
