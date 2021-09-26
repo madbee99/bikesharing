@@ -9,7 +9,7 @@ This chart shows the length of every bike trip that lasted up to 2 hours for rid
 ![image](https://user-images.githubusercontent.com/86338416/134822950-c23fc12b-7ae0-4b44-b3c3-8387aabfbc2a.png)
 
 * [Checkout Times by Gender](https://public.tableau.com/authoring/Module14Challenge_16326839417930/CheckoutTimesforUsers2#1)  
-This chart show the length of every bike trip that lasted up to 2 hours but this time filters by gender.  
+This chart show the length of every bike trip that lasted up to 2 hours, filtered by gender.  
 ![image](https://user-images.githubusercontent.com/86338416/134823292-af572902-7d2e-4e66-a7fe-dc157dafc445.png)  
 
 
