@@ -4,6 +4,7 @@
 This project uses Tableau to create visualizations and provide an analysis of [NYC Citi Bike data](https://s3.amazonaws.com/tripdata/index.html) from August 2019 to support your investor pitch to start a similar bikesharing business in your town of Des Moines, Iowa.
 
 ## Results
+Please find the link to the Tableau dashboard [here](insert link herEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEe). The separate charts from deliverable 2 and the module lesson are displayed below.  
 * [Checkout Times for Users](https://public.tableau.com/authoring/Module14Challenge_16326839417930/CheckoutTimesforUsers#1)   
 This chart shows the length of every bike trip that lasted up to 2 hours for riders in August 2019.The screenshot shows that the most common trip length in August 2019 was a 5 minute trip, with 146,752 trips lasting 5 minutes.
 ![image](https://user-images.githubusercontent.com/86338416/134822950-c23fc12b-7ae0-4b44-b3c3-8387aabfbc2a.png)
@@ -43,3 +44,4 @@ This chart shows the top ending locations in NYC (the bigger/darker the bubble, 
 
 
 ## Summary  
+These visualizations show that there are many more male riders than female riders. More than half of the riders are male. The most common bike trip length is 5 minutes, meaning that most riders use the bikes for a fairly brief amount of time. During weekdays (Mon-Fri), the bikes are most commonly used before and after regular work hours, around 8am and 5-6pm, respectively. During the weekends, the bikes are more commonly used throughout the entire day (9am - 7pm). These patterns suggest that these bikes may be used for commuting transportation during the week and for more non-work activities during the weekend. The same heatmaps which are then separated by gender also show similar bike usage patterns by the day/hour. There are more subscribers than non-subscribers (customers), suggesting that there is an audience that consistently uses the bikes. The most popular starting and ending locations seem to be located in the more populated areas of New York City.
