@@ -31,7 +31,7 @@ This heatmap differentiates between subscribers and customers (non-subscribers),
 ### Additional Visualizations from Module Lesson
 * [Gender Breakdown](https://public.tableau.com/authoring/Module14Challenge_16326839417930/GenderBreakdown#1)  
 This pie chart shows the user breakdown by gender.  
-* ![image](https://user-images.githubusercontent.com/86338416/134823353-72e942dd-ad4a-4faa-ae0f-af8df874c92f.png)
+![image](https://user-images.githubusercontent.com/86338416/134823353-72e942dd-ad4a-4faa-ae0f-af8df874c92f.png)
 
 * [Top Starting Locations](https://public.tableau.com/authoring/Module14Challenge_16326839417930/TopStartingLocations#1)  
 This chart shows the top starting locations in NYC (the bigger/darker the bubble, the greater the number of trips started at that location).  
