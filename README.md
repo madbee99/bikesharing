@@ -6,7 +6,7 @@ This project uses Tableau to create visualizations and provide an analysis of [N
 ## Results
 * [Checkout Times for Users] (https://public.tableau.com/authoring/Module14Challenge_16326839417930/CheckoutTimesforUsers#1) 
 This table shows the length of every bike trip that lasted up to 2 hours for riders in August 2019.The screenshot shows that the most common trip length in August 2019 was a 5 minute trip, with 146,752 trips lasting 5 minutes.
-![image](![image](https://user-images.githubusercontent.com/86338416/134822909-e3cac0a2-7aaf-4c19-928b-08fa470855e4.png))  
+![image](https://user-images.githubusercontent.com/86338416/134822950-c23fc12b-7ae0-4b44-b3c3-8387aabfbc2a.png)
 
 * [Checkout Times by Gender]
 * Trips by Weekday for Each Hour
