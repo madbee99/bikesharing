@@ -44,4 +44,24 @@ This chart shows the top ending locations in NYC (the bigger/darker the bubble, 
 
 
 ## Summary  
-These visualizations show that there are many more male riders than female riders. More than half of the riders are male. The most common bike trip length is 5 minutes, meaning that most riders use the bikes for a fairly brief amount of time. During weekdays (Mon-Fri), the bikes are most commonly used before and after regular work hours, around 8am and 5-6pm, respectively. During the weekends, the bikes are more commonly used throughout the entire day (9am - 7pm). These patterns suggest that these bikes may be used for commuting transportation during the week and for more non-work activities during the weekend. The same heatmaps which are then separated by gender also show similar bike usage patterns by the day/hour. There are more subscribers than non-subscribers (customers), suggesting that there is an audience that consistently uses the bikes. The most popular starting and ending locations seem to be located in the more populated areas of New York City.
+These visualizations show that there are many more male riders than female riders. More than half of the riders are male. The most common bike trip length is 5 minutes, meaning that most riders use the bikes for a fairly brief amount of time. During weekdays (Mon-Fri), the bikes are most commonly used before and after regular work hours, around 8am and 5-6pm, respectively. During the weekends, the bikes are more commonly used throughout the entire day (9am - 7pm). These patterns suggest that these bikes may be used for commuting transportation during the week and for more non-work activities during the weekend. The same heatmaps which are then separated by gender also show similar bike usage patterns by the day/hour. There are more subscribers than non-subscribers (customers), suggesting that there is an audience that consistently uses the bikes. The most popular starting and ending locations seem to be located in the more populated areas of New York City. It also appears that Thrusday is the day with the most trips.
+
+Two additional suggested visualizations for future analysis would be to create a similar map as the "Top Starting Locations" visualization, but to add a color filter to differentiate between starting locations on weekdays versus weekends. The same could then also be done for "Top Ending Locations." If you toggle the day filter, you can see that the most rides occur on Thursdays and crowd out the relative represenation of the other days' data in the visual (see screenshots below). The next question may be to ask: why is Thursday bikeriding so popular?
+
+Example of the "Top Starting Locations" visual filtered by day, with and without Thursday.  
+* Including Thursday:  
+![image](https://user-images.githubusercontent.com/86338416/134824081-bd5e1ac6-52a7-4192-9e4d-6479288661dd.png)  
+
+* Excluding Thursday:   
+![image](https://user-images.githubusercontent.com/86338416/134824050-dbaaf789-690a-4fea-84dd-c12396821438.png)  
+
+* Top Starting Locations -- Weekday Edition:  
+![image](https://user-images.githubusercontent.com/86338416/134824152-d09cfd29-f266-48e1-bfa0-cf7de1fc6ffa.png)
+
+* Top Starting Locations -- Weekend Edition:  
+![image](https://user-images.githubusercontent.com/86338416/134824136-5fc5bef1-dc47-4149-a922-a4ed5a6aa52e.png)  
+
+
+
+
+
