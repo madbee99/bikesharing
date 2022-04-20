@@ -1,7 +1,7 @@
 # Module 14 Challenge: Bikesharing
 
 ## Overview  
-This project uses Tableau to create visualizations and provide an analysis of [NYC Citi Bike data](https://s3.amazonaws.com/tripdata/index.html) from August 2019 to support your investor pitch to start a similar bikesharing business in your town of Des Moines, Iowa.
+This project uses Tableau to create visualizations and provide an analysis of [NYC Citi Bike data](https://s3.amazonaws.com/tripdata/index.html) from August 2019 to support an investor pitch to start a similar bikesharing business in the town of Des Moines, Iowa.
 
 ## Results
 Please find the link to my Tableau dashboard [here](https://public.tableau.com/app/profile/madeleine4973) (click on "Module 14 Challenge"). The separate charts from deliverable 2 and the module lesson are displayed below.  
@@ -61,6 +61,9 @@ Example of the "Top Starting Locations" visual filtered by day, with and without
 * Top Starting Locations -- Weekend Edition:  
 ![image](https://user-images.githubusercontent.com/86338416/134824136-5fc5bef1-dc47-4149-a922-a4ed5a6aa52e.png)  
 
+
+## Resources
+Data provided by UC Berkeley Extension Data Analytics Bootcamp.
 
 
 
