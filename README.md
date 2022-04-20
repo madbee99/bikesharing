@@ -63,7 +63,8 @@ Example of the "Top Starting Locations" visual filtered by day, with and without
 
 
 ## Resources
-Data provided by UC Berkeley Extension Data Analytics Bootcamp.
+* UC Berkeley Extension Data Analytics Bootcamp
+* Amazon Web Services' [NYC Citi Bike data](https://s3.amazonaws.com/tripdata/index.html)
 
 
 
